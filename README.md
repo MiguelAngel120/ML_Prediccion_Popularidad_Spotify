@@ -45,7 +45,8 @@ Los modelos fueron evaluados con métricas:
 
 El mejor rendimiento se obtuvo con Random Forest en ambos casos:
 - Accuracy clasificación: 0.94
-- R² en regresión: 0.48
+- R² en regresión: 0.48 , 100 arboles
+- R² en regresión: 0.48 , 50 arboles
 
 ## Estructura del Repositorio
 
@@ -57,7 +58,7 @@ ML_Prediccion_Popularidad_Spotify/
 │   ├── data_sample/           # Muestra del Dataset
 │   ├── img/                   # Imágenes generadas por los modelos
 │   ├── models/                # Modelos entrenados guardados en .pkl
-│   ├── notebooks/             # Notebooks de pruebas
+│   ├── notebooks/             # Notebooks de pruebas y para correr los modelos y guardarlos en pkl
 │   └── results_notebook/     # Notebook final: Spotify.ipynb
 │
 └── README.md
@@ -127,7 +128,8 @@ Models were evaluated using appropriate metrics:
 
 The best performance was achieved with Random Forest in both tasks:
 - Classification Accuracy: 0.94
-- Regression R²: 0.48
+- Regression R²: 0.48 , 100 trees
+- Regression R²: 0.47 , 50 trees
 
 ## Repository Structure
 
@@ -139,7 +141,7 @@ ML_Prediccion_Popularidad_Spotify/
 │   ├── data_sample/           # Dataset sample
 │   ├── img/                   # Images generated from models
 │   ├── models/                # Trained models saved as .pkl
-│   ├── notebooks/             # Experimentation notebooks
+│   ├── notebooks/             # Experimentation notebooks to ruun the models and saved as .pkl
 │   └── results_notebook/     # Final notebook: Spotify.ipynb
 │
 └── README.md
