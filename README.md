@@ -77,7 +77,7 @@ Este enfoque es útil para plataformas de streaming, análisis de tendencias mus
 
 ## Presentación del Proyecto
 
-[Link del video]
+[https://drive.google.com/file/d/1blkWnxneGgjRjJ8vxcbTO2TWoQWquKKa/view?usp=sharing]
 
 
 ---
@@ -160,5 +160,5 @@ This approach can be useful for streaming platforms, trend analysis in music, or
 
 ## Project Presentation
 
-[Video Link]
+[https://drive.google.com/file/d/1blkWnxneGgjRjJ8vxcbTO2TWoQWquKKa/view?usp=sharing]
 
